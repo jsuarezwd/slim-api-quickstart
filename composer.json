@@ -1,4 +1,16 @@
 {
+    "name": "jsuarezwd/slim-api-quickstart",
+    "description": "For faster development to APIs with Slim framework ",
+    "keywords": ["microframework","slim","rest", "router", "psr7"],
+    "homepage": "https://github.com/jsuarezwd/slim-api-quickstart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junior Suarez",
+            "email": "juniorsuarez92@gmail.com",
+            "homepage": "http://www.imagirom.com"
+        }
+    ],
     "require": {
         "slim/slim": "^3.0",
         "phpunit/phpunit": "^6.5",
