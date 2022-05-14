@@ -14,7 +14,7 @@
     "require": {
         "slim/slim": "^3.0",
         "phpunit/phpunit": "^6.5",
-        "Illuminate/database": "^5.5",
+        "Illuminate/database": "^6.1",
         "monolog/monolog": "^1.23",
         "tuupola/cors-middleware": "^0.5.2"
     },
